@@ -53,7 +53,7 @@ After my studies I founded <a href="https://www.comdecon.com">ComDeCon</a> (Comp
 * <a href="">Design options/ consultation and 3d visualization/ virtual walkthrough</a> (Apartment Milano).
 <br/>
 
-### [`IASS Conference and Assasin Bug`]
+### [`IASS Conference and Assassin Bug`]
 <p></p>
 Initially for the graduation project I was researching <a href="https://www.livestreamevent.uk/iass2021/wp-content/uploads/sites/25/2021/08/975.pdf">Resposive Systems in Seismic Computational Design</a>, which was selected and proudly made it into the <a href="https://iass-structures.org/">International Conference on Spatial Structures IASS in Surrey</a> this year.  
 As a main outcome besides the workflow stands now the parametric component, that produces the <a href="https://www.youtube.com/watch?v=Zp45P_SOf4U">performing structure for testing</a> and is now under development to be published on <a href="https://www.food4rhino.com">Food4Rhino</a> and to be made an open source GitHub repository.
